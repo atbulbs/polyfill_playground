@@ -20,7 +20,7 @@
     "TS_NODE_PROJECT": "\"/build/webpack.tsconfig.json\""
   },
   "keywords": [
-    "singleton pattern",
+    "polyfill",
     "TypeScript",
     "TS",
     "webpack",
